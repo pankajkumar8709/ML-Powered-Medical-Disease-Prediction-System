@@ -1,0 +1,32 @@
+pycache/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+env.bak/
+*.egg-info/
+*.egg
+
+Streamlit
+*.streamlit/
+
+Model files 
+*.pkl
+*.joblib
+
+OS generated files
+.DS_Store
+Thumbs.db
+
+Logs and temp files
+*.log
+*.tmp
+
+Logs and temp files
+*.log
+*.tmp
+
+Ignore feedback file
+feedback.txt
