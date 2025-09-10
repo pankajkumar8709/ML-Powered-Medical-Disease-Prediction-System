@@ -21,7 +21,10 @@ A lightweight, offline-capable web application built with Python and Streamlit t
    cd ml-disease-prediction-app
 
 2. Create a virtual environment and activate it:   
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows: venv\Scripts\activate
+
 3. Install the required packages:
+    ```bash
     pip install -r requirements.txt
